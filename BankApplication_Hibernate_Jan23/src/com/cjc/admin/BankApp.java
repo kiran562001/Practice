@@ -17,6 +17,7 @@ public class BankApp {
 
 		while (flag) {
 			System.out.println("************Welcome To The ICICI Bank App****************");
+System.out.println("************Welcome To The ICICI Bank App****************");
 System.out.println("************Welcome To Git Practice****************");
 			System.out.println("Enter 1 For Create Account");
 			System.out.println("Enter 2 For View Account Details");
@@ -29,6 +30,8 @@ System.out.println("************Welcome To Git Practice****************");
 			System.out.println("Enter 9 For Delete All Account");
 			System.out.println("Enter 10 For Exit From App");
 			System.out.println("*************************************************");
+System.out.println("************Welcome To The ICICI Bank App****************");
+	
 			int ch = sc.nextInt();
 
 			switch (ch) {
