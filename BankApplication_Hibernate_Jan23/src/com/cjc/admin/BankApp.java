@@ -18,7 +18,7 @@ public class BankApp {
 		while (flag) {
 			System.out.println("************Welcome To The ICICI Bank App****************");
 System.out.println("************Welcome To The ICICI Bank App****************");
-	
+System.out.println("************Welcome To Git Practice****************");
 			System.out.println("Enter 1 For Create Account");
 			System.out.println("Enter 2 For View Account Details");
 			System.out.println("Enter 3 For WithDrawl Money");
